@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Shafin Biya
 plugin_paymentpage_processingtagline === Da fatan za a danna maɓallin da ke ƙasa don ci gaba da biyan kuɗi.
 plugin_paymentpage_processingbutton === Biya Yanzu
 plugin_generic_downloadstitle === Zazzagewar plugin
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Sigar

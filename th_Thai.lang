@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === หน้าชำระเงิน
 plugin_paymentpage_processingtagline === กรุณาคลิกปุ่มด้านล่างเพื่อดำเนินการชำระเงิน
 plugin_paymentpage_processingbutton === จ่ายตอนนี้
 plugin_generic_downloadstitle === ดาวน์โหลดปลั๊กอิน
+table_waservers_detailsid === บัตรประจำตัวประชาชน
+table_waservers_detailsversion === เวอร์ชัน

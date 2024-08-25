@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === 결제 페이지
 plugin_paymentpage_processingtagline === 아래 버튼을 눌러 결제를 진행해주세요.
 plugin_paymentpage_processingbutton === 지금 지불하세요
 plugin_generic_downloadstitle === 플러그인 다운로드
+table_waservers_detailsid === ID
+table_waservers_detailsversion === 버전

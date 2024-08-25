@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === דף תשלום
 plugin_paymentpage_processingtagline === אנא לחץ על הלחצן למטה כדי להמשיך בתשלום.
 plugin_paymentpage_processingbutton === שלם עכשיו
 plugin_generic_downloadstitle === הורדות תוספים
+table_waservers_detailsid === תְעוּדַת זֶהוּת
+table_waservers_detailsversion === גִרְסָה

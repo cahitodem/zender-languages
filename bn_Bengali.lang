@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === পেমেন্ট পৃষ্ঠা
 plugin_paymentpage_processingtagline === অর্থপ্রদানের সাথে এগিয়ে যেতে অনুগ্রহ করে নীচের বোতামে ক্লিক করুন।
 plugin_paymentpage_processingbutton === এখন পরিশোধ করুন
 plugin_generic_downloadstitle === প্লাগইন ডাউনলোড
+table_waservers_detailsid === আইডি
+table_waservers_detailsversion === সংস্করণ

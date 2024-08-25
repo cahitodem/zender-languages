@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Zahlungsseite
 plugin_paymentpage_processingtagline === Bitte klicken Sie auf die Schaltfläche unten, um mit der Zahlung fortzufahren.
 plugin_paymentpage_processingbutton === Zahlen Sie jetzt
 plugin_generic_downloadstitle === Plugin-Downloads
+table_waservers_detailsid === AUSWEIS
+table_waservers_detailsversion === Ausführung

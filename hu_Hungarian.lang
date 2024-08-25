@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Fizetési oldal
 plugin_paymentpage_processingtagline === Kérjük, kattintson az alábbi gombra a fizetés folytatásához.
 plugin_paymentpage_processingbutton === Fizess most
 plugin_generic_downloadstitle === Plugin letöltések
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Változat

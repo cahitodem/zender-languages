@@ -2862,3 +2862,6 @@ user_settings_defthemecolortooltip === Chọn màu chủ đề bạn thích cho 
 plugin_paymentpage_processingtitle === Trang thanh toán
 plugin_paymentpage_processingtagline === Vui lòng nhấp vào nút bên dưới để tiến hành thanh toán.
 plugin_paymentpage_processingbutton === Thanh toán ngay
+plugin_generic_downloadstitle === Tải xuống plugin
+table_waservers_detailsid === NHẬN DẠNG
+table_waservers_detailsversion === Phiên bản

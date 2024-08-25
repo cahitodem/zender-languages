@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Pagina de plată
 plugin_paymentpage_processingtagline === Vă rugăm să faceți clic pe butonul de mai jos pentru a continua cu plata.
 plugin_paymentpage_processingbutton === Plătește acum
 plugin_generic_downloadstitle === Descărcări de pluginuri
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Versiune

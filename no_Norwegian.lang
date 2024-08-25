@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Betalingsside
 plugin_paymentpage_processingtagline === Klikk på knappen nedenfor for å fortsette med betalingen.
 plugin_paymentpage_processingbutton === Betal nå
 plugin_generic_downloadstitle === Plugin-nedlastinger
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Versjon

@@ -2862,3 +2862,6 @@ user_settings_defthemecolortooltip === Yan awọ akori ti o fẹ fun dasibodu na
 plugin_paymentpage_processingtitle === Oju-iwe isanwo
 plugin_paymentpage_processingtagline === Jọwọ tẹ bọtini ni isalẹ lati tẹsiwaju pẹlu sisanwo.
 plugin_paymentpage_processingbutton === Sanwo Bayi
+plugin_generic_downloadstitle === Awọn igbasilẹ ohun itanna
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Ẹya

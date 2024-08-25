@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === पेमेंट पृष्ठ
 plugin_paymentpage_processingtagline === देयक पुढे जाण्यासाठी कृपया खालील बटणावर क्लिक करा.
 plugin_paymentpage_processingbutton === आता द्या
 plugin_generic_downloadstitle === प्लगइन डाउनलोड
+table_waservers_detailsid === आयडी
+table_waservers_detailsversion === आवृत्ती

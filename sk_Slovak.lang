@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Platobná stránka
 plugin_paymentpage_processingtagline === Ak chcete pokračovať v platbe, kliknite na tlačidlo nižšie.
 plugin_paymentpage_processingbutton === Zaplatiť teraz
 plugin_generic_downloadstitle === Plugin na stiahnutie
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Verzia

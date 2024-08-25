@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Payment Page
 plugin_paymentpage_processingtagline === Please click the button below to proceed with the payment.
 plugin_paymentpage_processingbutton === Pay Now
 plugin_generic_downloadstitle === Plugin Downloads
+table_waservers_detailsid === ID
+table_waservers_detailsversion === Version

@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Halaman Pembayaran
 plugin_paymentpage_processingtagline === Silakan klik tombol di bawah ini untuk melanjutkan pembayaran.
 plugin_paymentpage_processingbutton === Bayar sekarang
 plugin_generic_downloadstitle === Unduhan Plugin
+table_waservers_detailsid === PENGENAL
+table_waservers_detailsversion === Versi: kapan

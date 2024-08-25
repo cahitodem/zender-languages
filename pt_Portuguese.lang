@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === Página de pagamento
 plugin_paymentpage_processingtagline === Por favor clique no botão abaixo para prosseguir com o pagamento.
 plugin_paymentpage_processingbutton === Pague agora
 plugin_generic_downloadstitle === Downloads de plug-ins
+table_waservers_detailsid === EU IA
+table_waservers_detailsversion === Versão

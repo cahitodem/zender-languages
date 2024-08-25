@@ -2863,3 +2863,5 @@ plugin_paymentpage_processingtitle === 付款页面
 plugin_paymentpage_processingtagline === 请点击下面的按钮继续付款。
 plugin_paymentpage_processingbutton === 现在付款
 plugin_generic_downloadstitle === 插件下载
+table_waservers_detailsid === ID
+table_waservers_detailsversion === 版本

@@ -2862,3 +2862,5 @@ plugin_paymentpage_processingtitle === ادائیگی کا صفحہ
 plugin_paymentpage_processingtagline === ادائیگی کے ساتھ آگے بڑھنے کے لیے براہ کرم نیچے دیئے گئے بٹن پر کلک کریں۔
 plugin_paymentpage_processingbutton === اب ادا
 plugin_generic_downloadstitle === پلگ ان ڈاؤن لوڈز
+table_waservers_detailsid === ID
+table_waservers_detailsversion === ورژن
