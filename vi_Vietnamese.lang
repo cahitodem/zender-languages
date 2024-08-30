@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Thanh toán ngay
 plugin_generic_downloadstitle === Tải xuống plugin
 table_waservers_detailsid === NHẬN DẠNG
 table_waservers_detailsversion === Phiên bản
+form_waserver_secretkeydesc_386 === Tạo một khóa bí mật an toàn duy nhất. Điều này sẽ được máy chủ WhatsApp sử dụng để xác minh kết nối ngang hàng với Zender. Vui lòng không sử dụng ký tự đặc biệt!
+form_package_enabledservicestitle === Dịch vụ đã kích hoạt
+form_package_enabledservicesdesc === Chọn các dịch vụ bạn muốn kích hoạt cho gói này. Các dịch vụ bị vô hiệu hóa sẽ bị ẩn và sẽ bị hạn chế đối với người dùng.
+plugins_btn_pluginsdefopagegeneric === Plugin
+tables_plugins_detailsauthor === Tác giả
+tables_plugins_detailsdesc === Sự miêu tả
+tables_plugins_detailsver === Phiên bản

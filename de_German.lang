@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Zahlen Sie jetzt
 plugin_generic_downloadstitle === Plugin-Downloads
 table_waservers_detailsid === AUSWEIS
 table_waservers_detailsversion === Ausführung
+form_waserver_secretkeydesc_386 === Erstellen Sie einen einzigartigen, sicheren, geheimen Schlüssel. Dies wird vom WhatsApp-Server verwendet, um die Peer-Verbindung mit Zender zu überprüfen. Bitte verwenden Sie keine Sonderzeichen!
+form_package_enabledservicestitle === Aktivierte Dienste
+form_package_enabledservicesdesc === Wählen Sie die Dienste aus, die Sie für dieses Paket aktivieren möchten. Deaktivierte Dienste werden ausgeblendet und sind auf den Benutzer beschränkt.
+plugins_btn_pluginsdefopagegeneric === Plugins
+tables_plugins_detailsauthor === Autor
+tables_plugins_detailsdesc === Beschreibung
+tables_plugins_detailsver === Version

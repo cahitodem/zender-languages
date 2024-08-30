@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Şimdi öde
 plugin_generic_downloadstitle === Eklenti İndirmeleri
 table_waservers_detailsid === İD
 table_waservers_detailsversion === Sürüm
+form_waserver_secretkeydesc_386 === Benzersiz, güvenli bir gizli anahtar oluşturun. Bu, WhatsApp sunucusu tarafından Zender ile eş bağlantıyı doğrulamak için kullanılacaktır. Lütfen özel karakterler kullanmayınız!
+form_package_enabledservicestitle === Etkin Hizmetler
+form_package_enabledservicesdesc === Bu paket için etkinleştirmek istediğiniz hizmetleri seçin. Devre dışı bırakılan hizmetler gizlenir ve kullanıcıyla sınırlandırılır.
+plugins_btn_pluginsdefopagegeneric === Eklentiler
+tables_plugins_detailsauthor === Yazar
+tables_plugins_detailsdesc === Tanım
+tables_plugins_detailsver === Sürüm

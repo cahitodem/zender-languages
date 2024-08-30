@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === 지금 지불하세요
 plugin_generic_downloadstitle === 플러그인 다운로드
 table_waservers_detailsid === ID
 table_waservers_detailsversion === 버전
+form_waserver_secretkeydesc_386 === 고유한 보안 비밀 키를 만듭니다. 이는 WhatsApp 서버에서 Zender와의 피어 연결을 확인하는 데 사용됩니다. 특수문자는 사용하지 마세요!
+form_package_enabledservicestitle === 활성화된 서비스
+form_package_enabledservicesdesc === 이 패키지에 대해 활성화하려는 서비스를 선택하십시오. 비활성화된 서비스는 숨겨져 있으며 사용자에게만 제한됩니다.
+plugins_btn_pluginsdefopagegeneric === 플러그인
+tables_plugins_detailsauthor === 작가
+tables_plugins_detailsdesc === 설명
+tables_plugins_detailsver === 버전

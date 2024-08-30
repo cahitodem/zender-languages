@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === 现在付款
 plugin_generic_downloadstitle === 插件下载
 table_waservers_detailsid === ID
 table_waservers_detailsversion === 版本
+form_waserver_secretkeydesc_386 === 创建唯一的安全密钥。 WhatsApp 服务器将使用它来验证与 Zender 的对等连接。请不要使用特殊字符！
+form_package_enabledservicestitle === 启用服务
+form_package_enabledservicesdesc === 选择您要为此包启用的服务。禁用的服务是隐藏的，并且仅限于用户使用。
+plugins_btn_pluginsdefopagegeneric === 插件
+tables_plugins_detailsauthor === 作者
+tables_plugins_detailsdesc === 描述
+tables_plugins_detailsver === 版本

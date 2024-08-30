@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Plătește acum
 plugin_generic_downloadstitle === Descărcări de pluginuri
 table_waservers_detailsid === ID
 table_waservers_detailsversion === Versiune
+form_waserver_secretkeydesc_386 === Creați o cheie secretă securizată unică. Acesta va fi folosit de serverul WhatsApp pentru a verifica conexiunea cu Zender. Vă rugăm să nu folosiți caractere speciale!
+form_package_enabledservicestitle === Servicii activate
+form_package_enabledservicesdesc === Selectați serviciile pe care doriți să le activați pentru acest pachet. Serviciile dezactivate sunt ascunse și vor fi limitate la utilizator.
+plugins_btn_pluginsdefopagegeneric === Pluginuri
+tables_plugins_detailsauthor === Autor
+tables_plugins_detailsdesc === Descriere
+tables_plugins_detailsver === Versiune

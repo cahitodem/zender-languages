@@ -2864,4 +2864,10 @@ plugin_paymentpage_processingtagline === Kérjük, kattintson az alábbi gombra 
 plugin_paymentpage_processingbutton === Fizess most
 plugin_generic_downloadstitle === Plugin letöltések
 table_waservers_detailsid === ID
-table_waservers_detailsversion === Változat
+table_waservers_detailsversion === Változatform_waserver_secretkeydesc_386 === Hozzon létre egy egyedi titkos titkos kulcsot. Ezt fogja használni a WhatsApp szerver a Zenderrel való peer kapcsolat ellenőrzésére. Kérjük, ne használjon speciális karaktereket!
+form_package_enabledservicestitle === Engedélyezett szolgáltatások
+form_package_enabledservicesdesc === Válassza ki a csomaghoz engedélyezni kívánt szolgáltatásokat. A letiltott szolgáltatások rejtettek, és a felhasználóra korlátozódnak.
+plugins_btn_pluginsdefopagegeneric === Beépülő modulok
+tables_plugins_detailsauthor === Szerző
+tables_plugins_detailsdesc === Leírás
+tables_plugins_detailsver === Változat

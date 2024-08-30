@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === आता द्या
 plugin_generic_downloadstitle === प्लगइन डाउनलोड
 table_waservers_detailsid === आयडी
 table_waservers_detailsversion === आवृत्ती
+form_waserver_secretkeydesc_386 === एक अद्वितीय सुरक्षित गुप्त की तयार करा. हे व्हॉट्सॲप सर्व्हरद्वारे Zender सह पीअर कनेक्शन सत्यापित करण्यासाठी वापरले जाईल. कृपया विशेष वर्ण वापरू नका!
+form_package_enabledservicestitle === सक्षम सेवा
+form_package_enabledservicesdesc === या पॅकेजसाठी तुम्ही सक्षम करू इच्छित सेवा निवडा. अक्षम सेवा लपलेल्या आहेत आणि वापरकर्त्यासाठी प्रतिबंधित केल्या जातील.
+plugins_btn_pluginsdefopagegeneric === प्लगइन
+tables_plugins_detailsauthor === लेखक
+tables_plugins_detailsdesc === वर्णन
+tables_plugins_detailsver === आवृत्ती

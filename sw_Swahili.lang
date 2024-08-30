@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === LIPA sasa
 plugin_generic_downloadstitle === Vipakuliwa vya programu-jalizi
 table_waservers_detailsid === ID
 table_waservers_detailsversion === Toleo
+form_waserver_secretkeydesc_386 === Unda ufunguo wa kipekee wa siri ulio salama. Hii itatumiwa na seva ya WhatsApp ili kuthibitisha muunganisho wa programu zingine na Zender. Tafadhali usitumie herufi maalum!
+form_package_enabledservicestitle === Huduma Zilizowezeshwa
+form_package_enabledservicesdesc === Chagua huduma unazotaka kuwezesha kwa kifurushi hiki. Huduma za walemavu zimefichwa na zitatumika kwa mtumiaji pekee.
+plugins_btn_pluginsdefopagegeneric === Programu-jalizi
+tables_plugins_detailsauthor === Mwandishi
+tables_plugins_detailsdesc === Maelezo
+tables_plugins_detailsver === Toleo

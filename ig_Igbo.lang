@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === kwụọ ụgwọ ugbu a
 plugin_generic_downloadstitle === Nbudata ngwa mgbakwunye
 table_waservers_detailsid === NJ
 table_waservers_detailsversion === Ụdị
+form_waserver_secretkeydesc_386 === Mepụta igodo nzuzo pụrụ iche. Ihe nkesa WhatsApp ga-eji nke a iji nyochaa njikọ ndị ọgbọ na Zender. Biko ejikwala mkpụrụedemede pụrụ iche!
+form_package_enabledservicestitle === Ọrụ agbanyere
+form_package_enabledservicesdesc === Họrọ ọrụ ị chọrọ ime ka ọ bụrụ ngwugwu a. A na-ezobe ọrụ ndị nwere nkwarụ, a ga-amachibidokwa onye ọrụ.
+plugins_btn_pluginsdefopagegeneric === Ngwa mgbakwunye
+tables_plugins_detailsauthor === Odee
+tables_plugins_detailsdesc === Nkọwa
+tables_plugins_detailsver === Ụdị

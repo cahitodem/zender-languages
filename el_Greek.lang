@@ -2864,3 +2864,10 @@ plugin_paymentpage_processingbutton === Πλήρωσε τώρα
 plugin_generic_downloadstitle === Λήψεις προσθηκών
 table_waservers_detailsid === ταυτότητα
 table_waservers_detailsversion === Εκδοχή
+form_waserver_secretkeydesc_386 === Δημιουργήστε ένα μοναδικό ασφαλές μυστικό κλειδί. Αυτό θα χρησιμοποιηθεί από τον διακομιστή WhatsApp για να επαληθεύσει τη σύνδεση ομοτίμων με το Zender. Μην χρησιμοποιείτε ειδικούς χαρακτήρες!
+form_package_enabledservicestitle === Ενεργοποιημένες υπηρεσίες
+form_package_enabledservicesdesc === Επιλέξτε τις υπηρεσίες που θέλετε να ενεργοποιήσετε για αυτό το πακέτο. Οι απενεργοποιημένες υπηρεσίες είναι κρυφές και θα περιορίζονται στον χρήστη.
+plugins_btn_pluginsdefopagegeneric === Πρόσθετα
+tables_plugins_detailsauthor === Συγγραφέας
+tables_plugins_detailsdesc === Περιγραφή
+tables_plugins_detailsver === Εκδοχή

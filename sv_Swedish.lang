@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Betala nu
 plugin_generic_downloadstitle === Plugin-nedladdningar
 table_waservers_detailsid === ID
 table_waservers_detailsversion === Version
+form_waserver_secretkeydesc_386 === Skapa en unik säker hemlig nyckel. Detta kommer att användas av WhatsApp-servern för att verifiera peer-anslutning med Zender. Vänligen använd inte specialtecken!
+form_package_enabledservicestitle === Aktiverade tjänster
+form_package_enabledservicesdesc === Välj de tjänster du vill aktivera för detta paket. Inaktiverade tjänster är dolda och kommer att vara begränsade till användaren.
+plugins_btn_pluginsdefopagegeneric === Plugins
+tables_plugins_detailsauthor === Författare
+tables_plugins_detailsdesc === Beskrivning
+tables_plugins_detailsver === Version

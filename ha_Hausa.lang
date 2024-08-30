@@ -2864,4 +2864,10 @@ plugin_paymentpage_processingtagline === Da fatan za a danna maɓallin da ke ƙa
 plugin_paymentpage_processingbutton === Biya Yanzu
 plugin_generic_downloadstitle === Zazzagewar plugin
 table_waservers_detailsid === ID
-table_waservers_detailsversion === Sigar
+table_waservers_detailsversion === Sigarform_waserver_secretkeydesc_386 === Ƙirƙiri amintaccen maɓalli na sirri na musamman. Sabar ta WhatsApp za ta yi amfani da wannan don tabbatar da haɗin kai tare da Zender. Don Allah kar a yi amfani da haruffa na musamman!
+form_package_enabledservicestitle === Sabis da aka kunna
+form_package_enabledservicesdesc === Zaɓi ayyukan da kuke son kunnawa don wannan fakitin. Ana ɓoye ayyukan da aka kashe kuma za a iyakance ga mai amfani.
+plugins_btn_pluginsdefopagegeneric === Plugins
+tables_plugins_detailsauthor === Marubuci
+tables_plugins_detailsdesc === Bayani
+tables_plugins_detailsver === Sigar

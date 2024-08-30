@@ -1,0 +1,7 @@
+form_waserver_secretkeydesc_386 === Create a unique secure secret key. This will be used by the WhatsApp server to verify peer connection with Zender. Please do not use special characters!
+form_package_enabledservicestitle === Enabled Services
+form_package_enabledservicesdesc === Select the services you want to enable for this package. Disabled services are hidden and will be restricted to the user.
+plugins_btn_pluginsdefopagegeneric === Plugins
+tables_plugins_detailsauthor === Author
+tables_plugins_detailsdesc === Description
+tables_plugins_detailsver === Version

@@ -2864,4 +2864,10 @@ plugin_paymentpage_processingtagline === Haga clic en el botón a continuación 
 plugin_paymentpage_processingbutton === Pagar ahora
 plugin_generic_downloadstitle === Descargas de complementos
 table_waservers_detailsid === IDENTIFICACIÓN
-table_waservers_detailsversion === Versión
+table_waservers_detailsversion === Versiónform_waserver_secretkeydesc_386 === Cree una clave secreta segura única. Esto será utilizado por el servidor de WhatsApp para verificar la conexión entre pares con Zender. ¡No utilice caracteres especiales!
+form_package_enabledservicestitle === Servicios habilitados
+form_package_enabledservicesdesc === Seleccione los servicios que desea habilitar para este paquete. Los servicios deshabilitados están ocultos y estarán restringidos al usuario.
+plugins_btn_pluginsdefopagegeneric === Complementos
+tables_plugins_detailsauthor === Autor
+tables_plugins_detailsdesc === Descripción
+tables_plugins_detailsver === Versión

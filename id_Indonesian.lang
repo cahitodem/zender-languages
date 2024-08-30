@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Bayar sekarang
 plugin_generic_downloadstitle === Unduhan Plugin
 table_waservers_detailsid === PENGENAL
 table_waservers_detailsversion === Versi: kapan
+form_waserver_secretkeydesc_386 === Buat kunci rahasia aman yang unik. Ini akan digunakan oleh server WhatsApp untuk memverifikasi koneksi peer dengan Zender. Tolong jangan gunakan karakter khusus!
+form_package_enabledservicestitle === Layanan yang Diaktifkan
+form_package_enabledservicesdesc === Pilih layanan yang ingin Anda aktifkan untuk paket ini. Layanan yang dinonaktifkan disembunyikan dan akan dibatasi untuk pengguna.
+plugins_btn_pluginsdefopagegeneric === Plugin
+tables_plugins_detailsauthor === Pengarang
+tables_plugins_detailsdesc === Keterangan
+tables_plugins_detailsver === Versi

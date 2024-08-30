@@ -2864,3 +2864,10 @@ plugin_paymentpage_processingbutton === اب ادا
 plugin_generic_downloadstitle === پلگ ان ڈاؤن لوڈز
 table_waservers_detailsid === ID
 table_waservers_detailsversion === ورژن
+form_waserver_secretkeydesc_386 === ایک منفرد محفوظ خفیہ کلید بنائیں۔ یہ واٹس ایپ سرور Zender کے ساتھ پیر کے کنکشن کی تصدیق کے لیے استعمال کرے گا۔ براہ کرم خصوصی حروف کا استعمال نہ کریں!
+form_package_enabledservicestitle === فعال خدمات
+form_package_enabledservicesdesc === ان خدمات کو منتخب کریں جنہیں آپ اس پیکیج کے لیے فعال کرنا چاہتے ہیں۔ غیر فعال خدمات پوشیدہ ہیں اور صارف تک محدود رہیں گی۔
+plugins_btn_pluginsdefopagegeneric === پلگ انز
+tables_plugins_detailsauthor === مصنف
+tables_plugins_detailsdesc === تفصیل
+tables_plugins_detailsver === ورژن

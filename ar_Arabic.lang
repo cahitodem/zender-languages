@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === ادفع الآن
 plugin_generic_downloadstitle === تنزيلات البرنامج المساعد
 table_waservers_detailsid === بطاقة تعريف
 table_waservers_detailsversion === إصدار
+form_waserver_secretkeydesc_386 === إنشاء مفتاح سري آمن فريد من نوعه. سيتم استخدام هذا بواسطة خادم WhatsApp للتحقق من اتصال النظير مع Zender. من فضلك لا تستخدم أحرف خاصة!
+form_package_enabledservicestitle === الخدمات الممكّنة
+form_package_enabledservicesdesc === حدد الخدمات التي تريد تمكينها لهذه الحزمة. الخدمات المعطلة مخفية وستكون مقتصرة على المستخدم.
+plugins_btn_pluginsdefopagegeneric === الإضافات
+tables_plugins_detailsauthor === مؤلف
+tables_plugins_detailsdesc === وصف
+tables_plugins_detailsver === إصدار

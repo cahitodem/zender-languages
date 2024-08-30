@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Sanwo Bayi
 plugin_generic_downloadstitle === Awọn igbasilẹ ohun itanna
 table_waservers_detailsid === ID
 table_waservers_detailsversion === Ẹya
+form_waserver_secretkeydesc_386 === Ṣẹda bọtini ikọkọ ti o ni aabo alailẹgbẹ. Eyi yoo ṣee lo nipasẹ olupin WhatsApp lati jẹrisi asopọ ẹlẹgbẹ pẹlu Zender. Jọwọ maṣe lo awọn ohun kikọ pataki!
+form_package_enabledservicestitle === Awọn iṣẹ ṣiṣe
+form_package_enabledservicesdesc === Yan awọn iṣẹ ti o fẹ mu ṣiṣẹ fun package yii. Awọn iṣẹ alaabo ti wa ni pamọ ati pe yoo wa ni ihamọ si olumulo.
+plugins_btn_pluginsdefopagegeneric === Awọn afikun
+tables_plugins_detailsauthor === Onkọwe
+tables_plugins_detailsdesc === Apejuwe
+tables_plugins_detailsver === Ẹya

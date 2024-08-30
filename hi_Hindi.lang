@@ -2866,3 +2866,10 @@ plugin_paymentpage_processingbutton === अब भुगतान करें
 plugin_generic_downloadstitle === प्लगइन डाउनलोड
 table_waservers_detailsid === पहचान
 table_waservers_detailsversion === संस्करण
+form_waserver_secretkeydesc_386 === एक अद्वितीय सुरक्षित गुप्त कुंजी बनाएं. इसका उपयोग व्हाट्सएप सर्वर द्वारा ज़ेंडर के साथ पीयर कनेक्शन को सत्यापित करने के लिए किया जाएगा। कृपया विशेष वर्णों का प्रयोग न करें!
+form_package_enabledservicestitle === सक्षम सेवाएँ
+form_package_enabledservicesdesc === उन सेवाओं का चयन करें जिन्हें आप इस पैकेज के लिए सक्षम करना चाहते हैं। अक्षम सेवाएँ छिपी हुई हैं और उपयोगकर्ता तक ही सीमित रहेंगी।
+plugins_btn_pluginsdefopagegeneric === प्लग-इन
+tables_plugins_detailsauthor === लेखक
+tables_plugins_detailsdesc === विवरण
+tables_plugins_detailsver === संस्करण

@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === จ่ายตอนนี้
 plugin_generic_downloadstitle === ดาวน์โหลดปลั๊กอิน
 table_waservers_detailsid === บัตรประจำตัวประชาชน
 table_waservers_detailsversion === เวอร์ชัน
+form_waserver_secretkeydesc_386 === สร้างรหัสลับที่ปลอดภัยที่ไม่ซ้ำใคร เซิร์ฟเวอร์ WhatsApp จะใช้สิ่งนี้เพื่อตรวจสอบการเชื่อมต่อแบบเพียร์กับ Zender กรุณาอย่าใช้อักขระพิเศษ!
+form_package_enabledservicestitle === บริการที่เปิดใช้งาน
+form_package_enabledservicesdesc === เลือกบริการที่คุณต้องการเปิดใช้งานสำหรับแพ็คเกจนี้ บริการที่ปิดใช้งานจะถูกซ่อนไว้และจะถูกจำกัดไว้เฉพาะผู้ใช้เท่านั้น
+plugins_btn_pluginsdefopagegeneric === ปลั๊กอิน
+tables_plugins_detailsauthor === ผู้เขียน
+tables_plugins_detailsdesc === คำอธิบาย
+tables_plugins_detailsver === เวอร์ชัน

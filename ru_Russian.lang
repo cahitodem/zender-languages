@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Заплатить сейчас
 plugin_generic_downloadstitle === Загрузка плагинов
 table_waservers_detailsid === ИДЕНТИФИКАТОР
 table_waservers_detailsversion === Версия
+form_waserver_secretkeydesc_386 === Создайте уникальный безопасный секретный ключ. Это будет использоваться сервером WhatsApp для проверки однорангового соединения с Zender. Пожалуйста, не используйте специальные символы!
+form_package_enabledservicestitle === Включенные услуги
+form_package_enabledservicesdesc === Выберите службы, которые вы хотите включить для этого пакета. Отключенные службы скрыты и будут доступны только пользователю.
+plugins_btn_pluginsdefopagegeneric === Плагины
+tables_plugins_detailsauthor === Автор
+tables_plugins_detailsdesc === Описание
+tables_plugins_detailsver === Версия

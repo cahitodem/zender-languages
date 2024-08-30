@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Pague agora
 plugin_generic_downloadstitle === Downloads de plug-ins
 table_waservers_detailsid === EU IA
 table_waservers_detailsversion === Versão
+form_waserver_secretkeydesc_386 === Crie uma chave secreta segura exclusiva. Isso será usado pelo servidor WhatsApp para verificar a conexão peer-to-peer com o Zender. Por favor, não use caracteres especiais!
+form_package_enabledservicestitle === Serviços habilitados
+form_package_enabledservicesdesc === Selecione os serviços que você deseja habilitar para este pacote. Os serviços desativados ficam ocultos e serão restritos ao usuário.
+plugins_btn_pluginsdefopagegeneric === Plug-ins
+tables_plugins_detailsauthor === Autor
+tables_plugins_detailsdesc === Descrição
+tables_plugins_detailsver === Versão

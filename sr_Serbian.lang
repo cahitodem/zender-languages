@@ -2865,3 +2865,10 @@ plugin_paymentpage_processingbutton === Платити сада
 plugin_generic_downloadstitle === Преузимања додатака
 table_waservers_detailsid === ИД
 table_waservers_detailsversion === Верзија
+form_waserver_secretkeydesc_386 === Направите јединствени сигурни тајни кључ. Ово ће користити ВхатсАпп сервер за верификацију равноправне везе са Зендером. Немојте користити посебне знакове!
+form_package_enabledservicestitle === Омогућене услуге
+form_package_enabledservicesdesc === Изаберите услуге које желите да омогућите за овај пакет. Онемогућене услуге су скривене и биће ограничене на корисника.
+plugins_btn_pluginsdefopagegeneric === Плугинс
+tables_plugins_detailsauthor === Аутор
+tables_plugins_detailsdesc === Опис
+tables_plugins_detailsver === Верзија
